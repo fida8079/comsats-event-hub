@@ -1,0 +1,72 @@
+﻿Γû▓ Next.js 16.2.2 (Turbopack)
+- Environments: .env.local
+
+node.exe : ΓÜá The 
+"middleware" file 
+convention is deprecated. 
+Please use "proxy" 
+instead. Learn more: https
+://nextjs.org/docs/message
+s/middleware-to-proxy
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (Γ  
+  Üá The "middle...lewa   
+ re-to-proxy:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+  Creating an optimized production build ...
+Γ£ô Compiled successfully in 9.6s
+  Running TypeScript ...
+  Finished TypeScript in 8.6s ...
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/8) ...
+Error occurred 
+prerendering page 
+"/admin/dashboard". Read 
+more: https://nextjs.org/d
+ocs/messages/prerender-err
+or
+Error: Invalid 
+supabaseUrl: Must be a 
+valid HTTP or HTTPS URL.
+    at <unknown> 
+(C:\Advance web\EMS\.next\
+server\chunks\ssr\_0hq1bs_
+._.js:37:43510)
+    at new cv (C:\Advance 
+web\EMS\.next\server\chunk
+s\ssr\_0hq1bs_._.js:37:436
+92)
+    at <unknown> 
+(C:\Advance web\EMS\.next\
+server\chunks\ssr\_0hq1bs_
+._.js:59:4318)
+    at <unknown> 
+(C:\Advance web\EMS\.next\
+server\chunks\ssr\_0hq1bs_
+._.js:59:4551)
+    at <unknown> 
+(C:\Advance web\EMS\.next\
+server\chunks\ssr\_12sa0jm
+._.js:12:116124) {
+  digest: '4000086637'
+}
+Export encountered an 
+error on 
+/admin/dashboard/page: 
+/admin/dashboard, exiting 
+the build.
+Γ¿» Next.js build worker 
+exited with code: 1 and 
+signal: null
