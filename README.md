@@ -111,4 +111,10 @@ Real-time messaging system inbox.
 ## Deployed on Vercel Link
 https://comsats-event-management-system.vercel.app/
 
+**Student login **
+fidahussain8079@gmail.com
+Password. abcd1234
 
+**Admin Login **
+fida.hussain7980@gmail.com
+Passwrod:abcd1234
