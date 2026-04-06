@@ -6,6 +6,7 @@
 ![WhatsApp Image 2026-04-05 at 6 26 06 PM (1)](https://github.com/user-attachments/assets/e740244c-d298-45d9-af1a-13ad7046f31e)
 
 ![WhatsApp Image 2026-04-05 at 6 26 07 PM](https://github.com/user-attachments/assets/05d3b56c-b5bf-465d-b051-9688a60bd571)
+<img width="1919" height="870" alt="Screenshot 2026-04-06 075504" src="https://github.com/user-attachments/assets/9e4f5557-c377-4eb3-bbe8-e970e0792521" />
 
 ![WhatsApp Image 2026-04-05 at 6 26 07 PM (1)](https://github.com/user-attachments/assets/b2d07f4f-c6aa-41d4-90d5-750640763c76)
 
